@@ -1,0 +1,48 @@
+body{ 
+    
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+
+}
+
+.post{
+   max-width: 400px;
+    margin:auto;
+}
+
+.post-header {
+    display:flex;
+    justify-content: space-between;
+    padding: 8px ;
+}
+
+
+#icono-principal{
+    display:flex
+}
+
+#icono-html{
+    font-size: 1.5rem;
+    margin-top:2px;
+    margin-right: 6px;
+}
+
+
+#icono-points{
+    font-size: 1.5rem;
+}
+.post-body{
+    margin-top: 10px;
+    padding: 0 5px;
+}
+
+.post-body span{
+    font-size: 1.5rem;
+    padding-right: 3px;
+}
+#bookmark{
+    float:right;
+    padding-right: 10px;
+}
+
+
